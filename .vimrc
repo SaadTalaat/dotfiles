@@ -2,7 +2,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 set rtp+=~/.vim/bundle/fzf/bin/fzf
 call vundle#begin()
 " Retain Vundle.vim during :PluginClean
-Plugin 'Vundle.vim'
+Plugin 'VundleVim/Vundle.vim'
 " Ctags plugins
 Plugin 'taglist.vim'
 Plugin 'preservim/tagbar'
